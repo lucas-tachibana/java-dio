@@ -1,4 +1,4 @@
-package metodos;
+package metodos.exercicio01utilizandoMetodos;
 
 public class Calculadora {
 

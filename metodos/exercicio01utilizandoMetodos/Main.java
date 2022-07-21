@@ -1,4 +1,4 @@
-package metodos;
+package metodos.exercicio01utilizandoMetodos;
 
 public class Main {
     public static void main(String[] args) {
