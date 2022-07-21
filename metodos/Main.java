@@ -12,5 +12,16 @@ public class Main {
 
         Calculadora.divisao(16, 4);
 
+        // Mensagem
+        System.out.println("Exercício Mensagem:");
+        Mensagem.obterMensagem(7);
+        Mensagem.obterMensagem(14);
+        Mensagem.obterMensagem(23);
+
+        // Empréstimo
+        System.out.println("Exercício empréstimo");
+        Emprestimo.calcular(1000, Emprestimo.getDuasParcelas());
+        Emprestimo.calcular(1000, Emprestimo.getTresParcelas());
+        Emprestimo.calcular(1000, 5);
     }
 }
