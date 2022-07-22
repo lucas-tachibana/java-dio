@@ -9,8 +9,9 @@ public class Ex6_Fatorial {
         int fatorial = scan.nextInt();
         int total = 1;
         for (int i = fatorial; i > 0; i--) {
+            int calculo = total;
             total *= i;
-            System.out.println("total: " + total);
+            System.out.println("total: " + calculo + " X " + i + " = " + total);
 
         }
 
