@@ -23,6 +23,7 @@ public class Ex1_NomeIdade {
             System.out.println("Nome: " + nomeAluno + " | Idade: " + idadeAluno);
             System.out.println("=================================");
         }
+        scan.close();
         ;
 
     }
