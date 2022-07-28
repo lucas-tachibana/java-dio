@@ -1,6 +1,6 @@
 package br.com.dio.model;
 
-public class Carro {
+public class Carro extends Veiculo {
     String marca;
     String cor;
     int capacidadeTanque;
