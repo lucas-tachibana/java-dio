@@ -1,4 +1,4 @@
 package br.com.dio.model;
 
-public class Vendedor {
+public class Vendedor extends Funcionario {
 }

@@ -1,2 +1,4 @@
-package br.com.dio.model;public class Funcionario {
+package br.com.dio.model;
+
+public class Funcionario {
 }
